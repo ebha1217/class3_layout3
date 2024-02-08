@@ -1,0 +1,76 @@
+*{margin 0; padding:0;
+}
+.banner{
+    height:300px;
+    background-color: cadetblue;
+    border-style:double;
+    text-align: center;
+    color:azure;
+}
+.other_body{
+    height:500px;
+    display:flex;
+    text-align: center;
+    color:azure;
+}
+.other_one{
+    width:25%;
+    background-color: rgb(33, 114, 117);
+    border-style:double;
+    
+}
+.menu{
+    height:50%;
+    text-align:left;
+    border-style:dotted;
+    
+}
+.picture{
+    height:100%;
+    width: 100%;
+    overflow: hidden;
+    border-style:dotted;
+    object-fit: contain;
+}
+.other_two{width:60%;
+    background-color: rgb(105, 201, 204);
+    border-style:double;
+}
+.other_three{width:30%;
+    background-color: rgb(56, 118, 121);
+    border-style:double;
+}
+.portfolio{
+    display: flex;
+    height:300px;
+    border-style: dotted;
+    color:antiquewhite;
+    text-align: center;
+    text-decoration: wavy;
+}
+.portfolio_one{
+    width:25%;
+    background-color: rgb(127, 218, 223);
+    border-style:double;
+}
+.portfolio_two{
+    width:25%;
+    background-color: rgb(112, 207, 212);
+    border-style:double;
+}
+.portfolio_three{
+    width:25%;
+    background-color: rgb(111, 206, 211);
+    border-style:double;
+}
+.portfolio_four{
+    width:25%;
+    background-color: rgb(89, 208, 214);
+    border-style:double;
+}
+.footer{
+    height:50px;
+    background-color:rgb(49, 148, 148);
+    text-align: center;
+    color: azure;
+}
